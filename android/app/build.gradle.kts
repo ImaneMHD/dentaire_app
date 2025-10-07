@@ -7,8 +7,11 @@ plugins {
 
 android {
     namespace = "com.example.dentaire"
-    compileSdk = 35
-
+compileSdk = 36
+    defaultConfig {
+        minSdk = 21
+        targetSdk = 36
+    }
     ndkVersion = "27.0.12077973"
 
     compileOptions {
