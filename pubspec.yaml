@@ -21,12 +21,12 @@ dependencies:
   cupertino_icons: ^1.0.8
 
   # Firebase
-  firebase_core: ^4.1.0
-  firebase_storage: ^11.7.7
-  firebase_auth: ^4.20.0
+  firebase_core: ^4.7.0
+  firebase_auth: ^4.7.0
+  firebase_storage: ^11.7.0
   firebase_analytics: ^11.0.0
   firebase_messaging: ^16.0.2
-  cloud_firestore: ^4.17.5
+  cloud_firestore: ^4.9.0
 
   syncfusion_flutter_pdfviewer: ^27.2.5
 
